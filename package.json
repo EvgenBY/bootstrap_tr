@@ -20,5 +20,8 @@
     "gulp-strip-css-comments": "^2.0.0",
     "gulp-uglify": "^3.0.2",
     "panini": "^1.7.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
   }
 }
